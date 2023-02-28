@@ -1,5 +1,7 @@
 # OrangeHeap_Deobfuscator
 
+[![CodeFactor](https://www.codefactor.io/repository/github/thehelltower/orangeheap_deobfuscator/badge)](https://www.codefactor.io/repository/github/thehelltower/orangeheap_deobfuscator)
+
 ## 📜 What it does ?
 
 It does deobfuscate Orange Heap outputs. This obfuscator only encrypt strings.
